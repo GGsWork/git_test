@@ -1,0 +1,1 @@
+This is GGsWork's first git project!
